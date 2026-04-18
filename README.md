@@ -42,7 +42,7 @@ TWS / IB Gateway API
 ## 📦 Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mayankrasu/ibkr-mcp-trading.git
 cd ibkr_mcp
 pip install -e .
 ```
