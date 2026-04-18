@@ -48,7 +48,9 @@ pip install -e .
 ```
 
 ## 🔑 Environment Setup
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 Create a `.env` file in the project root and add your deepseek API key as a variable
 `DEEPSEEK_API_KEY=your_api_key`
 
